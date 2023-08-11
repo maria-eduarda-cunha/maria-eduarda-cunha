@@ -1,4 +1,5 @@
-![image](https://github.com/lurira-madduds/lurira-madduds/assets/128634212/17406a64-68a8-4d35-8b46-3b1cda521a03)
+![image](https://github.com/maria-eduarda-cunha/maria-eduarda-cunha/assets/128634212/82770a55-140a-40c5-892d-094ad041e546)
+
 
 ## Skills
 <div align="center">  
