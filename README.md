@@ -14,7 +14,7 @@
 </div> 
       
 <div align="center">
-  <a href="https://github.com/lurira-madduds">
+  <a href="https://github.com/maria-eduarda-cunha">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurira-madduds&layout=compact&langs_count=7&theme=dark"/>
   </a> 
 </div>
