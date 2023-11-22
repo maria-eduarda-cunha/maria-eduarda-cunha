@@ -30,7 +30,7 @@
 
 ## Connect with me
 <div align="center">
-    <a href="www.linkedin.com/in/maria-eduarda-cunha-" target="_blank">
+    <a href="www.linkedin.com/in/maria-eduarda-cunha-/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     <a href="https://linktr.ee/madduds" target="_blank">
   <img src=https://img.shields.io/badge/portfolio-%25231E77B5.svg?style=for-the-badge&logo=portfolio&logoColor=white&color=white&cacheSeconds=3600&link=%3Chttps%3A%2F%2Flinktr.ee%2Fmadduds%3E alt=portfolio style="margin-bottom: 5px;" />
